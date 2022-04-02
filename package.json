@@ -1,6 +1,6 @@
 {
   "name": "@mixmaxhq/code-challenge-meeting-times",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Code challenge for hiring interviews; see https://...",
   "main": "index.js",
   "scripts": {
